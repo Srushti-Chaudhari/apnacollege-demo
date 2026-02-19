@@ -1,3 +1,3 @@
 # apnacollege-demo
-This is my first git repository
-Author ; Srushti Chaudhari
+This is my first git repository<br>
+Author : Srushti Chaudhari
